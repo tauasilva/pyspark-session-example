@@ -3,12 +3,12 @@
 </p>
 
 
-  <p align="center">Spark with <a href="http://nodejs.org" target="_blank">AWS Deequ</a> for data quality Test.</p>
+  <p align="center">Spark Test.</p>
     <p align="center">
 
 ## Description
 
-Repositório desenvolvido para testes do AWS deequ.
+Repositório desenvolvido para testes do Apache spark
 
 ## Data
 
@@ -21,7 +21,7 @@ https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros
 Python 3.7.9
 
 pyspark==3.1.1
-pydeequ==1.0.1
+
 
 spark-3.1.2-bin-hadoop3.2
 ```
